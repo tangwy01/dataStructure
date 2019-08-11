@@ -1,0 +1,10 @@
+version: 2
+mainApp:
+  pool: https://app.fossa.com
+  sitePath: custom
+subApp:
+  esb:
+      projectName: iris
+      appName: go
+      branchName: .
+      branchType: .
